@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> NewMiko </h1>
+    <h1> AuthSystem </h1>
 </div>
 
 ## 简介
