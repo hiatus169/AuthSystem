@@ -25,6 +25,7 @@ class Director : AuthDirector {
         }.toString()
     }
 
+    @Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
     override fun getUserSize(): String {
         return File("${Env.userDir}/").listFiles().count().toString()
     }
