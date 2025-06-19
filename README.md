@@ -19,4 +19,4 @@
 ## 交流讨论
 
 - 电报讨论组 [@MikoBuild](https://t.me/MikoBuild)
-- 电报通知组 [@MingXi Reesult](https://t.me/mingxi235)
+- 电报通知组 [@MingXi Result](https://t.me/mingxi235)
